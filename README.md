@@ -79,7 +79,7 @@ Adafruit GFX Libraryにあるメソッドで動作確認済みのメソッドの
 参考：[Adafruit GFX Library](http://adafruit.github.io/Adafruit-GFX-Library/html/index.html)
 
 - PortableElectricBulletinBoard  
-タクトスイッチ（プルダウン）やスライドスイッチ、スマホからの制御などいろいろ詰め込んだ例です。iPhone6ではSafariからHTMLの制御画面が開けましたが、iPhone8やiPhone14では開けませんでした。下に書くブレイクアウト基板がないと、動作確認は少しめんどうかも...
+タクトスイッチ（プルダウン）やスライドスイッチ、スマホからの制御などいろいろ詰め込んだ例です。iPhone6,8,14にてSafariやChromeを使って制御画面を開けることを確認しました。下に書くブレイクアウト基板がないと、動作確認は少しめんどうかも...
 
 
 
@@ -100,3 +100,4 @@ Adafruit GFX Libraryにあるメソッドで動作確認済みのメソッドの
 
 # History
 - Ver. 1.0.0  ライブラリ公開。
+- Ver. 1.0.1  iPhone8, 14で動作確認できたことをReadmeに追記。
